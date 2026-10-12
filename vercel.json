@@ -1,0 +1,4 @@
+{
+  "redirects": [{ "source": "/resources", "destination": "/insights", "permanent": true }],
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
